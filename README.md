@@ -68,7 +68,7 @@ swift build
 To run the project in Xcode, navigate to the directory in terminal and execute:
 
 ```
-swift generate xcode-proj
+swift package generate-xcodeproj
 ```
 
 Then open the generated project, select the executable scheme, then Run the project.
